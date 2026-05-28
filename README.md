@@ -9,7 +9,9 @@ An AI-powered Android app that suggests interesting stops along your route — c
 - **Detour Detail** — View AI-generated reasoning, distance/time cost, and rating for each stop
 
 ## Screenshots
+1. https://github.com/sayeed-hali01/detour-android/blob/main/De-Tour_Screen_1.jpeg
 
+2. https://github.com/sayeed-hali01/detour-android/blob/main/De-Tour_Screen_2.jpeg
 
 
 ## Tech Stack
@@ -79,6 +81,6 @@ Body: { origin, destination, categories, max_detour_minutes, user_preferences }
 Response: { baseline_route: { polyline }, proposed_detours: [ Detour ] }
 ```
 
-## License
+## Demo Video
 
-MIT
+https://github.com/sayeed-hali01/detour-android/blob/main/Detour_Demo.mp4
