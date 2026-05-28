@@ -10,9 +10,8 @@ An AI-powered Android app that suggests interesting stops along your route — c
 
 ## Screenshots
 1. https://github.com/sayeed-hali01/detour-android/blob/main/De-Tour_Screen_1.jpeg
-
 2. https://github.com/sayeed-hali01/detour-android/blob/main/De-Tour_Screen_2.jpeg
-
+3. https://github.com/sayeed-hali01/detour-android/blob/main/De-Tour_Screen_3.jpeg
 
 ## Tech Stack
 
